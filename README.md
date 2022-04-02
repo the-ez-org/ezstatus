@@ -1,0 +1,2 @@
+# ezstatus
+Easy Peasy Status
